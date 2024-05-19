@@ -1,0 +1,258 @@
+[
+  {
+    "question": "Ano sa pamimilian ang salitang kabilang sa pampanitikan?",
+    "choice1": "panulat",
+    "choice2": "pangsulat",
+    "choice3": "lapis",
+    "choice4": "ballpen",
+    "answer": 1
+  },
+  {
+    "question": "Ang antas ng wika ang opisyal na ginagamit sa Pilipinas?",
+    "choice1": "balbal",
+    "choice2": "pampanitikan",
+    "choice3": "pambansa",
+    "choice4": "kolokyal",
+    "answer": 3
+  },
+  {
+    "question": "Anong antas ng wika kabilang ang salitang ''saan''?",
+    "choice1": "pambansa",
+    "choice2": "pampanitikan",
+    "choice3": "balbal",
+    "choice4": "kolokyal",
+    "answer": 4
+  },
+  {
+    "question": "Ilan ang antas ng wika?",
+    "choice1": "4",
+    "choice2": "5",
+    "choice3": "3",
+    "choice4": "6",
+    "answer": 2
+  },
+  {
+    "question": "Saan kabilang ang balbal?",
+    "choice1": "pormal",
+    "choice2": "di-pormal",
+    "choice3": "wala sa nabanggit",
+    "choice4": "A at B",
+    "answer": 2
+  },
+  {
+    "question": "Anong antas ng wika kabilang ang salitang ''liyag''?",
+    "choice1": "pambansa",
+    "choice2": "pampanitikan",
+    "choice3": "balbal",
+    "choice4": "kolokyal",
+    "answer": 2
+  },
+  {
+    "question": "Anong antas ng wika kabilang ang salitang ''ante''?",
+    "choice1": "pambansa",
+    "choice2": "pampanitikan",
+    "choice3": "balbal",
+    "choice4": "kolokyal",
+    "answer": 3
+  },
+  {
+    "question": "Anong antas ng wika kabilang ang terminong ''ilaw ng tahanan''?",
+    "choice1": "pambansa",
+    "choice2": "pampanitikan",
+    "choice3": "balbal",
+    "choice4": "kolokyal",
+    "answer": 2
+  },
+  {
+    "question": "Anong antas ng wika kabilang ang salitang ''lamesa''?",
+    "choice1": "pambansa",
+    "choice2": "pampanitikan",
+    "choice3": "balbal",
+    "choice4": "kolokyal",
+    "answer": 1
+  },
+  {
+    "question": "Anong antas ng wika kabilang ang salitang ''papel''?",
+    "choice1": "pambansa",
+    "choice2": "pampanitikan",
+    "choice3": "balbal",
+    "choice4": "kolokyal",
+    "answer": 1
+  },
+      {
+      "question": "Anong salitang pambansa ang nakikita mo sa pangungusap?  ''Ang mga mamamayan ay nagbabayanihan kagahapon.''",
+      "choice1": "mamamayan",
+      "choice2": "nagbabayanihan",
+      "choice3": "kagahapon",
+      "choice4": "Lahat sa nabangit",
+      "answer": 2
+    },
+    {
+      "question": "Ano ang tumutukoy sa iba't ibang uri o paggamit ng mga salita upang magkaroon ng ibang kahulugan at kulay sa nagsasalita at kinakausap?",
+      "choice1": "Balbal",
+      "choice2": "Antas ng Wika ",
+      "choice3": "Lalawiganin",
+      "choice4": "Pambansa",
+      "answer": 2
+    },
+    {
+      "question": "Ano ang pinakamababang uri wikang ginagamit ng tao, nabuo sa kagustuhan ng isang partikular na grupo na nagkakaroon ng sariling pagkakakilanlan?",
+      "choice1": "Balbal",
+      "choice2": "Lalawiganin",
+      "choice3": "Pambansa",
+      "choice4": "Kolokyal",
+      "answer": 1
+    },
+    {
+      "question": "Ano ang salitain o dayalekto ng mga katutubo sa lalawigan?",
+      "choice1": "Balbal ",
+      "choice2": "Lalawiganin",
+      "choice3": "Pambansa",
+      "choice4": "Kolokyal",
+      "answer": 2
+    },
+    {
+      "question": "Ano ang ginagamit ng buong bansa o mga salitaing kabilang sa wikang Filipino?",
+      "choice1": "Balbal",
+      "choice2": "Lalawiganin",
+      "choice3": "Pambansa",
+      "choice4": "Kolokyal",
+      "answer": 3
+    },
+    {
+      "question": "Ano ang ginagamit ang mga salita sa iba pang kahulugan. Ginagamit pangkatha ng dula at iba pang likhang pampanitikan?",
+      "choice1": "Balbal",
+      "choice2": "Lalawiganin",
+      "choice3": "Pambansa",
+      "choice4": "Pampanitikan",
+      "answer": 4
+    },    
+    {
+      "question": "Ano ang salitang ginagamit sa pang-araw araw ng pakikipag-usap?",
+      "choice1": "Balbal",
+      "choice2": "Lalawiganin",
+      "choice3": "Pambansa",
+      "choice4": "Kolokyal",
+      "answer": 4
+    },
+    {
+      "question": "Ano ang antas ng wika na istandard na kinikilala/ginagamit ng nakararami?",
+      "choice1": "Antas ng Wika ",
+      "choice2": "Pormal",
+      "choice3": "Di-Pormal",
+      "choice4": "Balbal",
+      "answer": 2
+    },
+    {
+      "question": "Ano ang antas ng wika na karaniwan, palasak, pang araw-araw, madalas gamitin sa pakikipag-usap at pakikipagtalastasan?",
+      "choice1": "Antas ng Wika ",
+      "choice2": "Pormal",
+      "choice3": "Di-Pormal",
+      "choice4": "Balbal",
+      "answer": 3
+    },
+    {
+      "question": "Alin sa mga sumusunod ang angkop ang pagkakabigay ng halimbawa?",
+      "choice1": "Balbal - Mayumi ",
+      "choice2": "Kolokyal – Nasan",
+      "choice3": "Lalawiganin - Jowa",
+      "choice4": "Pambansa - Nasan",
+      "answer": 2
+    },
+    {
+      "question": "Ilan ang bahagi ng antas ng wika?",
+      "choice1": "2",
+      "choice2": "3",
+      "choice3": "4",
+      "choice4": "5",
+      "answer": 4
+    },
+    {
+      "question": "Alin sa mga ito ang karaniwang ginagamit ng mga kabataan sa text o chat?",
+      "choice1": "Balbal - Jowa ",
+      "choice2": "Kolokyal - Nasan",
+      "choice3": "Lalawiganin - Ngani",
+      "choice4": "Pambansa - Maaari",
+      "answer": 2
+    },
+    {
+      "question": "Alin sa mga ito ang halimbawa ng balbal?",
+      "choice1": "kosa ",
+      "choice2": "balo",
+      "choice3": "kwarta",
+      "choice4": "Atig",
+      "answer": 1
+    },
+    {
+      "question": "Ang mga sumusunod ay halimbawa ng kolokyal na salita maliban sa isa, alin sa sumusunod ang hindi kabilang?",
+      "choice1": "antay",
+      "choice2": "lika",
+      "choice3": "waley",
+      "choice4": "bargas",
+      "answer": 4
+    },
+    {
+      "question": "Paano mo ihihikayat ang iyong mga kaibigan na sumama sa isang outing?",
+      "choice1": "Tara, magpakita tayo sa labas ng bayan.",
+      "choice2": "Sama kayo sa trip, maganda ang lugar. ",
+      "choice3": "Lahat tayo, samahan natin ang lakad",
+      "choice4": "Isama natin ang kuwento sa labas ng lugar.",
+      "answer": 3
+    },
+    {
+      "question": "Paano mo ipapaliwanag sa iyong kaibigan ang konsepto ng ''ghosting''?",
+      "choice1": "Yung biglang nawawala sa usapan, alam mo yun?",
+      "choice2": "Parang biglang naglaho sa ere, gano'n.",
+      "choice3": "Yung tipong biglang 'di na nagrereply, gets mo ba?",
+      "choice4": "Ganito yun, bigla ka na lang tatalikod, wala ng balikan.",
+      "answer": 1
+    },
+    {
+      "question": "Anong tawag sa anyo ng panitikan na kadalasang ginagamit sa lokal na komunidad at nagtatampok ng mga salitang katutubo at pamilyar sa isang partikular na rehiyon?",
+      "choice1": "Balbal",
+      "choice2": "Lalawiganin",
+      "choice3": "Pambansa",
+      "choice4": "Pampanitikan",
+      "answer": 2
+    },
+    {
+      "question": "Anong uri ng panitikan ang sumasaklaw sa lokal na komunidad at nagtatampok ng mga salitang katutubo at pamilyar sa isang partikular na rehiyon?",
+      "choice1": "Balbal",
+      "choice2": "Lalawiganin",
+      "choice3": "Pambansa",
+      "choice4": "Pampanitikan",
+      "answer": 2
+    },
+    {
+      "question": "Anong tawag sa anyo ng panitikan na naglalarawan ng mga pangyayari, karanasan, at damdamin ng isang bansa bilang isang buo o kabuuan?",
+      "choice1": "Balbal ",
+      "choice2": "Lalawiganin",
+      "choice3": "Pambansa  ",
+      "choice4": "Pampanitikan",
+      "answer": 3
+    },
+    {
+      "question": "Ano ang tawag sa paggamit ng mga salitang may iba pang kahulugan sa isang akda ng dula o iba pang likhang pampanitikan?",
+      "choice1": "Pagkakaibang Lalawiganin",
+      "choice2": "Pampanitikang Balbal ",
+      "choice3": "Pambansang Pagsulat",
+      "choice4": "Panitikan na Pangpambansa",
+      "answer": 2
+    },
+    {
+      "question": "Ano ang tawag sa pagsasalin ng isang akdang panitikan mula sa isang wika patungo sa isa pang wika?",
+      "choice1": "Pagpapalit-wika ",
+      "choice2": "Pagsasalin-wika ",
+      "choice3": "Pagsasalin-tula",
+      "choice4": "Pagpapalit-tula",
+      "answer": 2
+    },
+    {
+      "question": "Ano ang pinakamababang antas. Ito ay binubuo ng mga salitang kanto na sumusulpot sa kapaligiran?",
+      "choice1": "Lalawiganin",
+      "choice2": "Pampanitikan       ",
+      "choice3": "Pambansa",
+      "choice4": "Balbal",
+      "answer": 1
+    }
+]
